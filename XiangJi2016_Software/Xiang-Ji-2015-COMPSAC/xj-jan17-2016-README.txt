@@ -1,9 +1,12 @@
 December 15th, 2015
 
-The document shows how to use the COMPSAC scientific computing Python scripts.
+The document shows how to generate the reusults published in COMPSAC 2015 paper.
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7273643
+
+scientific computing Python scripts.
 
 List of files:
-log_parser.py
+log_parser.py purpose, input, output
 parse.py
 
 ratevstime.py
